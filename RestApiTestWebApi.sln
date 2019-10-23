@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseMigrations", "Datab
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RestApiTestRepositories", "RestApiTestRepositories\RestApiTestRepositories.fsproj", "{238A9840-6F25-4B6F-87E1-74289CF6EF7E}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RestApiTestClient", "RestApiTestClient\RestApiTestClient.fsproj", "{08C89988-E8E6-409C-9E4C-54611DB80DFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{238A9840-6F25-4B6F-87E1-74289CF6EF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238A9840-6F25-4B6F-87E1-74289CF6EF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238A9840-6F25-4B6F-87E1-74289CF6EF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C89988-E8E6-409C-9E4C-54611DB80DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C89988-E8E6-409C-9E4C-54611DB80DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C89988-E8E6-409C-9E4C-54611DB80DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C89988-E8E6-409C-9E4C-54611DB80DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
